@@ -1,0 +1,28 @@
+body {background-color: rgb(240, 247, 246);}
+th {background-color: #defcec;}
+button {
+    color: rgb(0, 0, 0);
+    background-color: #bad5ddde;
+    border-radius: 50vh;
+}
+button:hover {
+    color: rgb(0, 0, 0);
+    background: #eefafdde;
+}
+input {width: 100%; border-radius: 3px;}
+li {float: left; display: flex;}
+
+
+.calendars {text-align: center; margin-left: auto;margin-right: auto; font-size: 80%;}
+.btn {text-align: center;}
+
+.SundayColumns {background-color: #ffe1ed;}
+.SaturdayColumns {background-color: #dfeaff;}
+.Add {font-size: 70%;}
+.Delete {font-size: 70%; margin-left: auto;}
+
+#title {text-align: center; margin-left: auto;margin-right: auto;}
+#Sunday {color: red;}
+#Saturday {color: blue;}
+#YM {font-size: 20px;}
+#today {background-color: coral; color: cornsilk;}
