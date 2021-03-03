@@ -10,7 +10,7 @@ button:hover {
     background: #eefafdde;
 }
 input {width: 100%; border-radius: 3px;}
-li {float: left; display: flex;}
+li {display: flex;}
 
 
 .calendars {text-align: center; margin-left: auto;margin-right: auto; font-size: 80%;}
